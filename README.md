@@ -6,9 +6,8 @@
 <!-- This is using base64 encoded image. If you have a small image, you can upload the base64 version of it :D https://www.base64-image.de/ -->
 
 
-![Akshita github stats](https://github-readme-stats.vercel.app/api?username=Akshita0714&theme=radical&show_icons=true&count_private=true)
+![Akshita github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshita0714&theme=tokyonight)
 
  
-![Akshita Repos Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshita0714&theme=solarized_dark)
-
-![Akshita Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshita0714&theme=solarized_dark)
+![Akshita Repos Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshita0714&theme=tokyonight)
+![Akshita Commit Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshita0714&theme=tokyonight)
